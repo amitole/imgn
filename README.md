@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+To deploy the project just npm istall and after that npm start and the project will start
+
+Amit Toledano
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
